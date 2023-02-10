@@ -1,0 +1,241 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.front-work {
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-bottom: 30%;
+}
+
+.front-work h2 {
+    font-size: 60px;
+    text-align: right;
+    padding-top: 13%;
+    padding-right: 15%;
+}
+
+.front-work p {
+    text-align: right;
+    font-weight: normal;
+    padding-right: 15%;
+
+    font-size: 15px;
+    padding-top: 10px;
+    color: #444343;
+
+}
+
+#btn-1 {
+    align-items: center;
+    background-color: rgb(39, 39, 72);
+    padding: 1% 1% 1% 1%;
+    color: aliceblue;
+    font-weight: bold;
+    margin-left: 78%;
+    border-radius: 5px;
+    border-color: orange;
+    margin-top: 20px;
+}
+
+
+/* Middle work Start */
+
+.mid-work {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+
+
+
+}
+
+.img-part {
+    padding-left: 10%;
+    margin-left: 4%;
+
+}
+
+
+.need {
+    padding-left: 6%;
+    margin-bottom: 10%;
+}
+
+.need h2 {
+    font-size: 45px;
+
+
+}
+
+.need p {
+    padding-right: 40%;
+    margin-top: 3%;
+    font-weight: normal;
+
+}
+
+.fa-check {
+    color: green;
+    row-gap: 1em;
+
+}
+
+.check-part {
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 2.5rem;
+
+}
+
+/* Middle Part End */
+
+
+/* My work Section Start */
+
+.my-work {
+    text-align: center;
+    margin-top: 8%;
+    font-size: 30px;
+}
+
+.my-work-img {
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 13%;
+    padding-right: 13%;
+    padding-top: 4%;
+
+
+}
+
+.my-work-img h3 {
+    font-size: 25px;
+    padding-top: 15px;
+}
+
+.my-work-img p {
+    font-size: 20px;
+    font-weight: 100;
+    color: #444343;
+}
+
+/* My work Section End */
+
+
+
+
+/* my Gradient Part Start */
+
+.gradient {
+
+    background-image: url(../images/watch.png), url(../images/gradient2.png);
+
+    background-repeat: no-repeat;
+    background-position: 0 auto;
+
+    background-blend-mode: soft-light;
+
+
+    padding-bottom: 18%;
+    margin-left: 14%;
+    margin-right: 13%;
+    margin-top: 8%;
+
+
+
+}
+
+.gradient h1 {
+    padding-left: 8%;
+    padding-top: 6%;
+    font-size: 35px;
+}
+
+#btn-2 {
+    background-color: aliceblue;
+    border-color: white;
+    border: none;
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-right: 3%;
+    padding-bottom: 1%;
+    margin-left: 8%;
+    margin-top: 2%;
+    border-radius: 3px;
+    color: #F15B22;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+/* my Gradient Part End */
+
+
+/* Footer Part Start */
+.last-part-1 {
+    background-color: black;
+    color: #FFFFFF;
+    height: 450px;
+}
+
+.icon {
+    display: flex;
+    margin-top: 3%;
+    justify-content: space-around;
+    padding-right: 24rem;
+    padding-top: 1rem;
+
+
+}
+
+.f-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.f-2 h1 {
+    margin-top: 30%;
+    font-size: 45px;
+}
+
+.f-2 p {
+    margin-top: 4%;
+
+
+}
+
+#subscribe {
+    font-size: 30px;
+}
+
+#mail-port {
+    padding-right: 4rem;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: white;
+    border: white;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#btn-3 {
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-size: 15px;
+    color: #501c07;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+/* Footer Part  */
