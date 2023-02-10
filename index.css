@@ -4,7 +4,7 @@
 }
 
 .front-work {
-    background-image: url(../images/banner/banner3.png);
+    background-image: url(./images/banner/banner3.png);
     background-repeat: no-repeat;
     background-size: 100%;
     padding-bottom: 30%;
@@ -134,7 +134,7 @@
 
 .gradient {
 
-    background-image: url(../images/watch.png), url(../images/gradient2.png);
+    background-image: url(./images/watch.png), url(./images/gradient2.png);
 
     background-repeat: no-repeat;
     background-position: 0 auto;
